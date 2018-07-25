@@ -1,4 +1,4 @@
-<h1>Super blog de THP</h1>
+<h1>MOOCademy de THP</h1>
 <h4>Réalisation by Edouard, Léa</h4>
 
 Etape 1:   
