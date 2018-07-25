@@ -5,15 +5,19 @@ Etape 1:
 
     > git clone https://github.com/SatanPetitCoeur/02_MOOCademy.git
 
-Etape 2:
+Etape 2: 
+
+    > cd 02_MOOCademy
+    
+Etape 3:
 
     > rake db:migrate 
      
-Etape 3:
+Etape 4:
 
     > rake db:seed 
    
-Etape 4:  
+Etape 5:  
 
     > rails c
 
